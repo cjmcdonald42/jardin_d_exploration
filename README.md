@@ -7,3 +7,4 @@
 jardin_d_exploration
 
 ### This work © 2026 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
+![CC BY-NC-SA 4.0](/docs/CCBYNCSA_half.png)
